@@ -1,0 +1,2 @@
+Brief Introduction About Myself
+Hello, my name is Neema Mwangi. Iam learning Git and GitHub as part of my coding journey. I am excited to create my first repository and track my learning progress.
